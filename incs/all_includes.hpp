@@ -13,6 +13,20 @@
 #ifndef ALL_INCLUDES_HPP
 #define  ALL_INCLUDES_HPP
 
-asd;
+# include <iostream>
+# include <cstdlib>
+# include <string>
+# include <stdexcept>
+# include <cmaths>
+
+# include <vector>	//to compare with
+# include <map>		//real behavior
+
+#include "Vector.hpp"
+
+namespace	ft
+{
+	class vector{};
+}
 
 #endif
